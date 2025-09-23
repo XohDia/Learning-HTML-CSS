@@ -33,6 +33,10 @@ li {
 header,
 footer {
   background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .cta {
@@ -57,4 +61,14 @@ a:hover {
 .carre-contenu {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
+    padding: 80px;
+}
+
+section {
+  padding: 80px;
+}
+
+.a-propos-main {
+  width: 50%;
+  margin: auto;
 }
