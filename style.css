@@ -30,8 +30,8 @@ li {
   color: #f9f8ff;
 }
 
-.entete,
-.pied-de-page {
+header,
+footer {
   background-color: white;
 }
 
@@ -39,11 +39,6 @@ li {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
   border-radius: 50px;
-}
-
-.carre-contenu {
-  border-bottom: 1px solid #8e86b5;
-  border-right: 1px solid #8e86b5;
 }
 
 a:hover {
@@ -57,4 +52,9 @@ a:hover {
 
 .lien-icone:hover {
   opacity: 0.5;
+}
+
+.carre-contenu {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
 }
